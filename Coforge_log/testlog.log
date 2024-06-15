@@ -1,0 +1,77 @@
+2024-06-08 16:04:54,557 - NOP Comm Application -INFO - ===============info===============
+2024-06-08 16:04:54,563 - NOP Comm Application -WARN - ===============warn===============
+2024-06-08 16:04:54,564 - NOP Comm Application -ERROR - ===============error===============
+2024-06-08 16:04:54,564 - NOP Comm Application -INFO - launching chrome browser
+2024-06-08 16:04:56,743 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-08 16:05:03,191 - NOP Comm Application -INFO - clear the email value
+2024-06-08 16:05:03,331 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-08 16:05:03,470 - NOP Comm Application -INFO - clear the password value
+2024-06-08 16:05:03,519 - NOP Comm Application -INFO - enter password: admin
+2024-06-08 16:05:03,578 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-08 16:05:08,655 - NOP Comm Application -INFO - close the application
+2024-06-08 16:06:07,578 - NOP Comm Application -INFO - ===============info===============
+2024-06-08 16:06:07,585 - NOP Comm Application -WARN - ===============warn===============
+2024-06-08 16:06:07,586 - NOP Comm Application -ERROR - ===============error===============
+2024-06-08 16:06:07,587 - NOP Comm Application -INFO - launching chrome browser
+2024-06-08 16:06:10,134 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-08 16:06:17,650 - NOP Comm Application -INFO - clear the email value
+2024-06-08 16:06:17,754 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-08 16:06:17,900 - NOP Comm Application -INFO - clear the password value
+2024-06-08 16:06:17,957 - NOP Comm Application -INFO - enter password: admin
+2024-06-08 16:06:18,020 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-08 16:06:23,079 - NOP Comm Application -INFO - close the application
+2024-06-08 16:08:07,120 - NOP Comm Application -INFO - ===============info===============
+2024-06-08 16:08:07,126 - NOP Comm Application -WARN - ===============warn===============
+2024-06-08 16:08:07,127 - NOP Comm Application -ERROR - ===============error===============
+2024-06-08 16:08:07,127 - NOP Comm Application -INFO - launching chrome browser
+2024-06-08 16:08:09,314 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-08 16:08:18,234 - NOP Comm Application -INFO - clear the email value
+2024-06-08 16:08:18,336 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-08 16:08:18,457 - NOP Comm Application -INFO - clear the password value
+2024-06-08 16:08:18,520 - NOP Comm Application -INFO - enter password: admin
+2024-06-08 16:08:18,578 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-08 16:08:23,652 - NOP Comm Application -INFO - close the application
+2024-06-08 16:09:00,847 - NOP Comm Application -INFO - ===============info===============
+2024-06-08 16:09:00,854 - NOP Comm Application -WARN - ===============warn===============
+2024-06-08 16:09:00,855 - NOP Comm Application -ERROR - ===============error===============
+2024-06-08 16:09:00,855 - NOP Comm Application -INFO - launching chrome browser
+2024-06-08 16:09:04,475 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-08 16:09:11,042 - NOP Comm Application -INFO - clear the email value
+2024-06-08 16:09:11,132 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-08 16:09:11,325 - NOP Comm Application -INFO - clear the password value
+2024-06-08 16:09:11,374 - NOP Comm Application -INFO - enter password: admin
+2024-06-08 16:09:11,464 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-08 16:09:16,542 - NOP Comm Application -INFO - close the application
+2024-06-08 16:10:07,371 - NOP Comm Application -INFO - ===============info===============
+2024-06-08 16:10:07,383 - NOP Comm Application -WARN - ===============warn===============
+2024-06-08 16:10:07,384 - NOP Comm Application -ERROR - ===============error===============
+2024-06-08 16:10:07,384 - NOP Comm Application -INFO - launching chrome browser
+2024-06-08 16:10:10,000 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-08 16:10:18,007 - NOP Comm Application -INFO - clear the email value
+2024-06-08 16:10:18,133 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-08 16:10:18,308 - NOP Comm Application -INFO - clear the password value
+2024-06-08 16:10:18,381 - NOP Comm Application -INFO - enter password: admin
+2024-06-08 16:10:18,502 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-08 16:10:23,610 - NOP Comm Application -INFO - close the application
+2024-06-14 11:33:36,143 - NOP Comm Application -INFO - ===============info===============
+2024-06-14 11:33:36,150 - NOP Comm Application -WARN - ===============warn===============
+2024-06-14 11:33:36,150 - NOP Comm Application -ERROR - ===============error===============
+2024-06-14 11:33:36,151 - NOP Comm Application -INFO - launching chrome browser
+2024-06-14 11:33:39,882 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-14 11:33:46,914 - NOP Comm Application -INFO - clear the email value
+2024-06-14 11:33:47,039 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-14 11:33:47,208 - NOP Comm Application -INFO - clear the password value
+2024-06-14 11:33:47,280 - NOP Comm Application -INFO - enter password: admin
+2024-06-14 11:33:47,378 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-14 11:33:52,457 - NOP Comm Application -INFO - close the application
+2024-06-14 11:35:30,959 - NOP Comm Application -INFO - ===============info===============
+2024-06-14 11:35:30,967 - NOP Comm Application -WARN - ===============warn===============
+2024-06-14 11:35:30,967 - NOP Comm Application -ERROR - ===============error===============
+2024-06-14 11:35:30,969 - NOP Comm Application -INFO - launching chrome browser
+2024-06-14 11:35:33,639 - NOP Comm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-06-14 11:35:39,352 - NOP Comm Application -INFO - clear the email value
+2024-06-14 11:35:39,461 - NOP Comm Application -INFO - enter email: admin@yourstore.com
+2024-06-14 11:35:39,627 - NOP Comm Application -INFO - clear the password value
+2024-06-14 11:35:39,677 - NOP Comm Application -INFO - enter password: admin
+2024-06-14 11:35:39,800 - NOP Comm Application -INFO - click on rememberMe checkbox
+2024-06-14 11:35:44,908 - NOP Comm Application -INFO - close the application
