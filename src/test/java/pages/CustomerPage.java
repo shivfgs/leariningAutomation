@@ -17,6 +17,7 @@ public class CustomerPage {
 			driver = rdriver;
 			
 			
+			//PageFactory.initElements(rdriver, this);
 			PageFactory.initElements(rdriver, this);
 			
 			System.out.println("=================PageFactory======================");
